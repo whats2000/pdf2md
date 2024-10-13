@@ -5,3 +5,4 @@ npm-debug.log
 dist/
 output/
 .nyc_output/
+.idea/
